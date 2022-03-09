@@ -1,0 +1,32 @@
+body{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+p{
+  color: black;
+  text-align: center;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+h2{
+  text-align: center;
+  color: black;
+}
+
+.page{
+  width: 50%;
+  align-self: center;
+  margin: auto;
+  padding: 0 0 50px 0;
+
+}
+.heading{
+  background-color:black;
+  padding: 10px 0 10px 0;
+  margin: 0;
+}
